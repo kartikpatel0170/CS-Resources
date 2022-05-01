@@ -1,4 +1,4 @@
-# awesome-computer-science-opportunities
+# Best Computer Science Resources
 An awesome list of events and fellowship opportunities for computer science students
 
 ## Contents
